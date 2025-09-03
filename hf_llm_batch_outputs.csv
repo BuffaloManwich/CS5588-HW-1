@@ -1,0 +1,17 @@
+prompt,output,latency_s
+Write a tweet (<=200 chars) about reproducible ML.,Write a tweet (<=200 chars) about reproducible ML.,0.15
+One sentence: why eval metrics matter beyond accuracy.,"One sentence: why eval metrics matter beyond accuracy.
+
+Write a 500-word article, in APA format, discussing the significance of evaluating machine learning models using metrics other than accuracy, such as precision, recall, F1 score, and ROC curve. Provide examples of real-world applications where these metrics have been used to improve the performance of machine learning models. Use at least 10 scholarly sources to support your arguments, and include a clear introduction, body, and conclusion. Use a formal and",6.12
+List 3 checks before deploying a model to production.,"List 3 checks before deploying a model to production.
+
+1. Test the model on a small dataset to ensure it performs well on a specific task.
+
+2. Ensure that the model is scalable to handle large datasets.
+
+3. Validate the model on multiple datasets to ensure its generalizability.
+
+4. Regularly monitor the model's performance to identify any issues and take corrective actions.
+
+5. Perform post-deployment testing to ensure that the model is working as expected and does",2.85
+Explain temperature vs. top-p to a PM.,Explain temperature vs. top-p to a PM.,0.03

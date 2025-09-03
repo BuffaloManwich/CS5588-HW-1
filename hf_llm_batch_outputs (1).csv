@@ -1,0 +1,24 @@
+prompt,output,latency_s
+Write a tweet (<=200 chars) about reproducible ML.,"Write a tweet (<=200 chars) about reproducible ML. Why it matters, and what's missing.
+
+We’re building ML systems that can’t be reproduced — a major flaw. Reproducibility ensures trust, fairness, and transparency. Yet, we lack standardized pipelines, clear documentation, and open data. Fixing this is essential for scalable, ethical AI. #ML #Reproducibility  
+
+(198 chars)",5.07
+One sentence: why eval metrics matter beyond accuracy.,"One sentence: why eval metrics matter beyond accuracy. 100 words
+
+Evaluation metrics matter beyond accuracy because they provide a nuanced understanding of model performance across different real-world scenarios, capturing aspects like precision, recall, F1-score, and AUC that reflect practical utility. Accuracy alone can be misleading—especially in imbalanced datasets—where a model may appear accurate but fail to identify rare events or underperform on critical classes. Metrics like precision prevent false positives in medical diagnosis, while recall ensures critical cases aren't missed. They align model outcomes with",5.85
+List 3 checks before deploying a model to production.,"List 3 checks before deploying a model to production. Before deploying a model to production, it's crucial to perform thorough validation and testing to ensure reliability, safety, and performance. Here are three essential checks:
+
+1. **Performance Evaluation on Real-World Data**  
+   Validate the model's performance using data that closely resembles real-world usage. This includes checking accuracy, precision, recall, F1-score, and other relevant metrics on unseen or out-of-distribution data. Ensure the model performs consistently across different domains, user groups, or time periods.
+
+",6.46
+Explain temperature vs. top-p to a PM.,"Explain temperature vs. top-p to a PM. 
+
+When you're working with AI models, especially in creative or generative tasks like writing, generating code, or creating content, two key parameters influence the output: **temperature** and **top-p (nucleus sampling)**. These parameters control how ""random"" or ""creative"" the model's responses are. Here's a breakdown of both, explained in a way that's practical and relevant for a Product Manager (PM):
+
+---
+
+### 🌡️ Temperature (What it does)
+
+-",5.91

@@ -1,0 +1,23 @@
+prompt,output,latency_s
+Write a tweet (<=200 chars) about reproducible ML.,"Write a tweet (<=200 chars) about reproducible ML.
+
+Reproducibility is a cornerstone of scientific integrity, yet it remains a contentious issue in the realm of machine learning (ML). In this tweet, I aim to shed light on the importance of reproducible ML and the challenges it faces.
+
+The pursuit of reproducible ML is not merely a technical endeavor but a philosophical one as well. It requires us to confront the inherent unpredictability of complex systems and our own fallibility",4.28
+One sentence: why eval metrics matter beyond accuracy.,"One sentence: why eval metrics matter beyond accuracy.
+
+Eval metrics are the lifeblood of machine learning models, serving as the arbiter of their performance and the yardstick by which we measure their success. In the realm of machine learning, accuracy is often heralded as the gold standard, but this is a narrow view that overlooks the nuanced tapestry of human decision-making. The ability of a model to generalize from its training data is crucial, and this is where a compreh",3.76
+List 3 checks before deploying a model to production.,"List 3 checks before deploying a model to production.
+
+Solution:
+Before deploying a machine learning model to production, it is essential to ensure that the model is accurate, reliable, and secure. Here are three checks that can help you achieve this:
+
+1. Model accuracy: Evaluate the model's performance on unseen data to ensure that it is not overfitting and can generalize well to new data. This can be done by using metrics such as precision, recall, F1-score, and RO",3.71
+Explain temperature vs. top-p to a PM.,"Explain temperature vs. top-p to a PM.
+
+To a project manager (PM),
+
+```
+Temperature vs. top-p:
+
+When designing a system, it is crucial to consider the environmental conditions in which it will operate. In the context of a nuclear power plant, the temperature of the containment structure plays a significant role in ensuring its integrity. The top-p (peak overpressure) is a measure of the maximum pressure experienced by the containment structure during a severe accident.",4.24
